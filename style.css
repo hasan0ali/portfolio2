@@ -1,0 +1,14 @@
+body{
+  font-family: 'Poppins', sans-serif;
+}
+header{
+  text-align: center;
+  color: blueviolet;
+}
+section{
+  display: flex;
+  padding-left: 10px;
+  }
+section img{
+    width: 400px;
+  }
